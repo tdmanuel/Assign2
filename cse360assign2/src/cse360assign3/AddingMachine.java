@@ -11,11 +11,11 @@
  */
 
 package cse360assign3;
-
+import java.util.*;
 public class AddingMachine {
 
-	private int total;
-	private String history ="0"; 
+	protected int total;
+	protected String history ="0"; 
 	
 	//Constructor to define the variable total
 	public AddingMachine () {
