@@ -10,7 +10,7 @@
  * @return The resulting total and history of transactions
  */
 
-package cse360assign2;
+package cse360assign3;
 
 public class AddingMachine {
 
