@@ -1,7 +1,7 @@
 /**
  * Name: Thera Manuel
  * Class ID: 85141
- * Assignment #2
+ * Assignment #3
  * 
  * Description: Adds, subtracts, and returns the total. Provides history of addition and 
  * subtraction of the total and clears them
@@ -11,11 +11,10 @@
  */
 
 package cse360assign3;
-import java.util.*;
 public class AddingMachine {
 
 	protected int total;
-	protected String history ="0"; 
+	protected String history = "0"; 
 	
 	//Constructor to define the variable total
 	public AddingMachine () {
