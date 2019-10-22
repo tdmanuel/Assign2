@@ -1,7 +1,7 @@
 /**
  * Name: Thera Manuel
  * Class ID: 85141
- * Assignment #3
+ * Assignment #2
  * 
  * Description: Adds, subtracts, and returns the total. Provides history of addition and 
  * subtraction of the total and clears them
@@ -10,7 +10,7 @@
  * @return The resulting total and history of transactions
  */
 
-package cse360assign3;
+package cse360assign2;
 public class AddingMachine {
 
 	protected int total;
